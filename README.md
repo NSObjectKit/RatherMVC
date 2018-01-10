@@ -1,4 +1,4 @@
 # RatherMVC
-![](https://github.com/NSObjectKit/RatherMVC/blob/master/RatherMVC.png)
+![](https://raw.githubusercontent.com/NSObjectKit/RatherMVC/master/RatherThanMVC.png)
 
 
